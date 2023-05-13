@@ -9,11 +9,10 @@ pip install djongo
 
 ### Home
 
-
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/2497499b-a8c2-4bb1-8bb1-1bfc8b912aa7" width=70% height=70%>
 <br>
 
-### depatamets
+### Depatamets
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/7ee61b08-678b-42a2-8354-2c0fb785042a" width=70% height=70%>
 
 ### Udpate
@@ -21,12 +20,27 @@ pip install djongo
 
 ### Delete
 
-<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/f400a355-29d1-4286-81d1-d73758716cfd)" width=70% height=70%>
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/f400a355-29d1-4286-81d1-d73758716cfd" width=70% height=70%>
 
 ### Result
 
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/c7e9c3b6-4660-4730-8ac4-2edf47539473" width=70% height=70%>
-<br>
+
+### Employees
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/7ee61b08-678b-42a2-8354-2c0fb785042a" width=70% height=70%>
+
+### Udpate
+
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/83e59d5a-c44f-4617-9721-d4c867438f3d" width=70% height=70%>
+
+### Create
+
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/f0a4a23d-aa5c-4d56-8847-0e6d94c1a407" width=70% height=70%>
+
+### mongoDB
+
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/5b928c8e-7211-4fc2-8b17-0c845fa0a464" width=70% height=70%>
+
 
 ## P.S. :no_entry: ИЗ РОССИИ работает API только через VPN (ошибка 522) :no_entry:
 
