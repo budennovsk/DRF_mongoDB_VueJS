@@ -27,7 +27,8 @@ pip install djongo
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/c7e9c3b6-4660-4730-8ac4-2edf47539473" width=70% height=70%>
 
 ### Employees
-<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/7ee61b08-678b-42a2-8354-2c0fb785042a" width=70% height=70%>
+
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/189fd13b-a788-4ba1-b1b7-e6677dbc3c48" width=70% height=70%>
 
 ### Create
 
@@ -38,6 +39,6 @@ pip install djongo
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/5b928c8e-7211-4fc2-8b17-0c845fa0a464" width=70% height=70%>
 
 
-## P.S. :no_entry: ИЗ РОССИИ работает API только через VPN (ошибка 522) :no_entry:
+## P.S. :no_entry: ИЗ РОССИИ не работает серваки с базами данных в облаке  mongoDB, только локально через Compass :no_entry:
 
 
