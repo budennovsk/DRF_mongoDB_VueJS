@@ -29,10 +29,6 @@ pip install djongo
 ### Employees
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/7ee61b08-678b-42a2-8354-2c0fb785042a" width=70% height=70%>
 
-### Udpate
-
-<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/83e59d5a-c44f-4617-9721-d4c867438f3d" width=70% height=70%>
-
 ### Create
 
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/f0a4a23d-aa5c-4d56-8847-0e6d94c1a407" width=70% height=70%>
