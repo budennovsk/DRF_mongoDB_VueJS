@@ -19,11 +19,18 @@ from django.urls import re_path, path
 from mongo import views
 
 urlpatterns = [
-    re_path(r'^department$', views.departmentApi, name='departmentApi'),
-    re_path(r'^department/([0-9]+)$', views.departmentApi, name='departmentApi'),
+
+    # Использование API методами CRUD для отделов
+
+    re_path(r'^departament$', views.departmentApi, name='departmentApi'),
+    re_path(r'^departament/([0-9]+)$', views.departmentApi, name='departmentApi'),
+
+    # Использование API методами CRUD для сотрудников
 
     re_path(r'^employees$', views.employeesApi, name='employeesApi'),
     re_path(r'^employees/([0-9]+)$', views.employeesApi, name='employeesApi'),
+
+    # Использование маршрута для добавления картинок
 
     re_path(r'^employees/file', views.saveImgApi, name='saveImgApi'),
 

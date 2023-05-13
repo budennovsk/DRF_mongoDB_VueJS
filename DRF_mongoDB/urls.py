@@ -24,6 +24,6 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     re_path(r'^', include('mongo.urls')),
 ]
-
+""" Добавление в URL пути /media/ """
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

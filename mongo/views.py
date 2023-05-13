@@ -12,7 +12,8 @@ from .serializers import *
 # Create your views here.
 
 @csrf_exempt
-def departmentApi(request, id=0):
+def departmentApi(request: object, id=0) -> JsonResponse:
+    """Использование CRUD в БД для отделов """
     if request.method == 'GET':
         departaments = Departments.objects.all()
         departaments_serializer = DepartmentSerializer(departaments, many=True)
@@ -37,8 +38,10 @@ def departmentApi(request, id=0):
         department.delete()
         return JsonResponse('Delete Good', safe=False)
 
+
 @csrf_exempt
-def employeesApi(request, id=0):
+def employeesApi(request: object, id=0) -> JsonResponse:
+    """Использование CRUD в БД для сотрудников """
     if request.method == 'GET':
         employees = Employees.objects.all()
         employees_serializer = EmployessSerializer(employees, many=True)
@@ -66,10 +69,13 @@ def employeesApi(request, id=0):
 
 
 @csrf_exempt
-def saveImgApi(request):
+def saveImgApi(request: str) -> JsonResponse:
+    """Сохранение images в папке media"""
     file = request.FILES['file']
-    file_name = default_storage.save(file.name,file)
+    file_name = default_storage.save(file.name, file)
     return JsonResponse(file_name, safe=False)
 
+
 def index(request):
-    return render(request, 'mongo/index.html', {'var': 'var'})
+    """Домашняя страница """
+    return render(request, 'mongo/index.html')
