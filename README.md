@@ -1,8 +1,7 @@
 ### DRF and mongoDB and VueJS использовал:
 *  noSQL db mongoDB
-*  djongo
-для работы с noSQL так же как и SQLite через модели, необходима стороння библиотека 
-pip install djongo
+*  djongo для работы с noSQL так же как и SQLite через модели, необходима стороння библиотека
+    *  ```pip install djongo```
 *  VueJS для оформления фронта 
 *  Bootstrap оформление стилей
 *  DRF для работы с json
