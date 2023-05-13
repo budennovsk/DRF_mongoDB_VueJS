@@ -9,7 +9,6 @@ pip install djongo
 
 <h3>Домашняя страница</h3>
 
-![1](https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/2fef243e-118b-4d75-9341-dd947e35fb39)
 
 <img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/2497499b-a8c2-4bb1-8bb1-1bfc8b912aa7" width=70% height=70%>
 <br>
