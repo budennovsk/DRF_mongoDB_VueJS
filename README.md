@@ -14,20 +14,19 @@ pip install djongo
 <br>
 
 
-<h3>Поиск "dog"</h3>
-<img src="https://github.com/budennovsk/parse_Pixels_com/assets/97764479/ea192275-f240-4886-900e-5c0fdb0e85d0" width=70% height=70%>
+### depatamets
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/7ee61b08-678b-42a2-8354-2c0fb785042a" width=70% height=70%>
 <br>
-<h3>Добавление в БД с отображением на html</h3>
-
-<img src="https://github.com/budennovsk/parse_Pixels_com/assets/97764479/d54f8c45-c4c0-4512-bdc8-10b41afcae86" width=70% height=70%>
+### Udpate
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/d339b620-4055-42cb-a0be-a06f25b16f3f" width=70% height=70%>
 <br>
-<h3>Добавление в БД через форму</h3>
+### Delete
 
-<img src="https://github.com/budennovsk/parse_Pixels_com/assets/97764479/cd1f3bcf-cad4-476c-a705-5132353e4e2a" width=70% height=70%>
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/f400a355-29d1-4286-81d1-d73758716cfd)" width=70% height=70%>
 
-<h3>Результат </h3>
+<h3>Result</h3>
 
-<img src="https://github.com/budennovsk/parse_Pixels_com/assets/97764479/1a23024f-7c70-49b0-b53f-d88f64ea6369" width=70% height=70%>
+<img src="https://github.com/budennovsk/DRF_mongoDB_VueJS/assets/97764479/c7e9c3b6-4660-4730-8ac4-2edf47539473" width=70% height=70%>
 <br>
 
 ## P.S. :no_entry: ИЗ РОССИИ работает API только через VPN (ошибка 522) :no_entry:
