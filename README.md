@@ -1,4 +1,4 @@
-### DRF and mongoDB and VueJS использовал:
+### DRF and mongoDB and VueJS с методами CRUD использовал:
 *  noSQL db mongoDB
 *  djongo для работы с noSQL так же как и SQLite через модели, необходима стороння библиотека
     *  ```pip install djongo```
